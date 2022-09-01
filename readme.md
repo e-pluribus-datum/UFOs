@@ -1,6 +1,6 @@
 # UFO Sightings
 
-The finished webpage is hosted ![here](https://e-pluribus-datum.github.io/UFOs/) via GitHub Pages.
+The finished webpage is hosted [here](https://e-pluribus-datum.github.io/UFOs/) via GitHub Pages.
 
 ## Overview
 
