@@ -69,11 +69,7 @@ function filterTable() {
 }
 
 // Attach an event to listen for changes to each filter
-d3.selectAll("input").on("change", updateFilters); // "input" or filters ?
+d3.selectAll("input").on("change", updateFilters);
 
 // Build the table when the page loads
 buildTable(tableData);
-
-
-
-// 36:12 for deploying to GitHub page
